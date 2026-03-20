@@ -1,5 +1,4 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "meta": {
     "theme": "london-bureau"
   },
@@ -10,7 +9,7 @@
     "email": "jezmck@gmail.com",
     "url": "https://jezmck.com",
     "phone": "",
-    "summary": "I’m a web developer with more than 20 years of full-stack industry experience. I’ve worked with a wide range of companies; from a two-person start-up, small web agencies, growing scale-ups, to a large national utility supplier. Happy mentoring junior colleagues, working across departments, collaborating with mixed teams, and delivering innovative solutions which push boundaries and exceed expectations.",
+    "summary": "I'm a web developer with more than 20 years of full-stack industry experience. I’ve worked with a wide range of companies; from a two-person start-up, small web agencies, growing scale-ups, to a large national utility supplier. Happy mentoring junior colleagues, working across departments, collaborating with mixed teams, and delivering innovative solutions which push boundaries and exceed expectations.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,7 +25,21 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Optimise Everything (Dublin, Ireland)",
+      "position": "Senior Web Engineer (Full Stack)",
+      "startDate": "2024-04",
+      "endDate": "",
+      "location": "Remote",
+      "url": "https://optimiseeverything.io",
+      "summary": "Building new features, improving the user-experience and visual appeal of the customer-facing platform. Integrating our AI chat-bot. Adding to internal users’ capabilities by building “Solution templates” for more efficient quote creation and administration. Building many new reporting features, allowing the identification of money- and energy-saving recommendations.\n\nUpdated the main web-based software to address security concerns and increase performance. Worked on AWS Lambda hosted node.js scripts which interact with third-party APIs.\n\nIntegration with 3rd Party data sources such as electricity usage, air quality, and people presence.",
+      "description": "",
+      "highlights": [
+        "Skills used include: PHP, Laravel, advanced modern CSS & JS, WebSockets, PostgreSQL."
+      ]
+    }
+  ],
   "volunteer": [],
   "education": [],
   "awards": [],
